@@ -301,7 +301,6 @@ if client.is_connected:
 .
 ├── claude_mcp_client.py    # メインクライアント
 ├── example_mcp_client.py   # 使用例
-├── claude-mcp-client-design.md  # 設計書
 └── README.md               # このファイル
 ```
 
@@ -311,7 +310,6 @@ if client.is_connected:
 |---------|------|
 | `claude_mcp_client.py` | `ClaudeMCPClient` クラス — メインの実装 |
 | `example_mcp_client.py` | 全メソッドの使用例 |
-| `claude-mcp-client-design.md` | 設計書（要件・API設計・実装方針） |
 
 ## 実行方法
 
